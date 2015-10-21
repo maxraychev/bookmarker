@@ -10,7 +10,8 @@
         "mobiledetect/mobiledetectlib": "2.*",
         "cakephp/migrations": "~1.0",
         "cakephp/plugin-installer": "*",
-        "behat/behat": "3.0.x-dev"
+        "behat/behat": "3.0.x-dev",
+        "phpunit/phpunit": "5.2.x-dev"
     },
     "require-dev": {
         "psy/psysh": "@stable",
